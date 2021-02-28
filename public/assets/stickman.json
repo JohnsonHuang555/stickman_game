@@ -1,7 +1,7 @@
 {"frames": [
 
 {
-	"filename": "人.png",
+	"filename": "stickman.png",
 	"frame": {"x":336,"y":316,"w":124,"h":351},
 	"rotated": false,
 	"trimmed": true,
@@ -9,7 +9,7 @@
 	"sourceSize": {"w":500,"h":500}
 },
 {
-	"filename": "人2.png",
+	"filename": "stickman2.png",
 	"frame": {"x":1,"y":954,"w":182,"h":329},
 	"rotated": false,
 	"trimmed": true,
@@ -17,7 +17,7 @@
 	"sourceSize": {"w":500,"h":500}
 },
 {
-	"filename": "人3.png",
+	"filename": "stickman3.png",
 	"frame": {"x":195,"y":669,"w":227,"h":323},
 	"rotated": false,
 	"trimmed": true,
@@ -25,7 +25,7 @@
 	"sourceSize": {"w":500,"h":500}
 },
 {
-	"filename": "人4.png",
+	"filename": "stickman4.png",
 	"frame": {"x":1,"y":1,"w":231,"h":313},
 	"rotated": false,
 	"trimmed": true,
@@ -33,7 +33,7 @@
 	"sourceSize": {"w":500,"h":500}
 },
 {
-	"filename": "人5.png",
+	"filename": "stickman5.png",
 	"frame": {"x":234,"y":1,"w":192,"h":313},
 	"rotated": false,
 	"trimmed": true,
@@ -41,7 +41,7 @@
 	"sourceSize": {"w":500,"h":500}
 },
 {
-	"filename": "人6.png",
+	"filename": "stickman6.png",
 	"frame": {"x":1,"y":316,"w":169,"h":317},
 	"rotated": false,
 	"trimmed": true,
@@ -49,7 +49,7 @@
 	"sourceSize": {"w":500,"h":500}
 },
 {
-	"filename": "人7.png",
+	"filename": "stickman7.png",
 	"frame": {"x":172,"y":316,"w":162,"h":317},
 	"rotated": false,
 	"trimmed": true,
@@ -57,7 +57,7 @@
 	"sourceSize": {"w":500,"h":500}
 },
 {
-	"filename": "人8.png",
+	"filename": "stickman8.png",
 	"frame": {"x":1,"y":635,"w":192,"h":317},
 	"rotated": false,
 	"trimmed": true,
@@ -65,7 +65,7 @@
 	"sourceSize": {"w":500,"h":500}
 },
 {
-	"filename": "人9.png",
+	"filename": "stickman9.png",
 	"frame": {"x":185,"y":994,"w":227,"h":324},
 	"rotated": false,
 	"trimmed": true,
@@ -79,6 +79,6 @@
 	"format": "RGBA8888",
 	"size": {"w":461,"h":1319},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:fbae808be0cb960578cf532ab03772b1:d9d5ef160e07d11e095353d6679ee6e4:f27b13920ac2df6b40eade95b7d8c998$"
+	"smartupdate": "$TexturePacker:SmartUpdate:1c317cacd3796dde121045535468be88:d9d5ef160e07d11e095353d6679ee6e4:f27b13920ac2df6b40eade95b7d8c998$"
 }
 }
